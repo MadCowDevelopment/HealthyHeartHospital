@@ -1,7 +1,8 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "healthy-heart-hospital",
+  "author": "MadCowDevelopment",
+  "homepage": "http://github.com/MadCowDevelopment/",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -39,5 +40,5 @@
     "cordova-plugin-splashscreen"
   ],
   "cordovaPlatforms": [],
-  "description": "HealthyHeartHospital: An Ionic project"
+  "description": "HealthyHeartHospital - companion app"
 }
