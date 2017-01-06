@@ -1,0 +1,9 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>Random setup</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+    <bed-detail *ngFor="let bed of beds" [model]="bed"></bed-detail>
+</ion-content>
